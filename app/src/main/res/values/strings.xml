@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IMC Calculator</string>
+    <string name="IMC_MainText">IMC Calculator</string>
+    <string name="IMC_Name">Name</string>
+    <string name="IMC_Weight">Weight</string>
+    <string name="IMC_Height">Height</string>
+    <string name="IMC_Gender">Gender</string>
+    <string name="IMC_ButtonText">Calculate</string>
+    <string name="IMC_ResultText">MR</string>
+    <string name="Gender_W">Woman</string>
+    <string name="Gender_M">Man</string>
+
+</resources>
